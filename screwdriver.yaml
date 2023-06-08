@@ -1,0 +1,6 @@
+jobs:
+    component:
+        image: node:14
+        requires: [~commit]
+        steps:
+            - step-1: echo "Hello World"
