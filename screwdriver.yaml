@@ -1,7 +1,8 @@
 shared:
     settings:
-        email: [aishwaryanair.mec@gmail.com]
-        statuses: [SUCCESS, FAILURE]
+            email:
+                addresses: [aishwaryanair.mec@gmail.com]
+                statuses: [SUCCESS, FAILURE]
 
 jobs:
     component:
