@@ -1,3 +1,8 @@
+shared:
+    settings:
+        email: [aishwaryanair.mec@gmail.com]
+        slack: 'ash-testing'
+
 jobs:
     component:
         image: docker.ouroath.com:4443/docker.io/node:18
