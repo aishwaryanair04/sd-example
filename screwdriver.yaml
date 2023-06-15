@@ -2,6 +2,7 @@ shared:
     settings:
         email: [aishwaryanair.mec@gmail.com]
         slack: 'ash-testing'
+        statuses: [SUCCESS, FAILURE]
 
 jobs:
     component:
